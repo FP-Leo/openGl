@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Leo\OneDrive\Desktop\OpenGL\openGlProjectOne - Snake Game\openGlProjectOne\main.cpp(124,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Leo\OneDrive\Desktop\OpenGL\openGlProjectOne - Snake Game\openGlProjectOne\main.cpp(328,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Leo\OneDrive\Desktop\OpenGL\openGlProjectOne - Snake Game\openGlProjectOne\main.cpp(340,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  openGlProjectOne.vcxproj -> C:\Users\Leo\OneDrive\Desktop\OpenGL\openGlProjectOne - Snake Game\x64\Debug\openGlProjectOne.exe
